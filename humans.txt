@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Jose Turingan Developer jeeturingan
 
 # THANKS
 
